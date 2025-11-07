@@ -1,5 +1,5 @@
 [project]
-name = "symbolic-music-discrete-diffusion"
+name = "schmubert"
 dynamic = ["version"]
 dependencies = [
 #"absl-py==1.2.0",
